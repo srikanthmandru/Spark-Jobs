@@ -1,5 +1,5 @@
 
-Spark Jobs for HW4- SPRING 2020 semester
+Spark Job for PageRank Algorithm
 
 Code author
 -----------

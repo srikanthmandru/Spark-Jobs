@@ -1,5 +1,5 @@
 
-Spark Jobs for HW3- SPRING 2020 semester
+Spark Jobs for Twitter followers count and Twitter Social Amplifiers count problems
 
 Code author
 -----------
@@ -40,22 +40,6 @@ Input:
 For input, Create "input" directory and place the dataset into that directory for execution
 
 
-
-Log files description:
--------------------------
-Log files are provided in "HW3/logs/" directory. I have printed the output "number of triangles" and "number of PATH2" in the syslog files (named as "* from container").
-
-
-Report file :
--------------------------
-Report is placed at "HW3/Srikanth_Mandru_HW3.pdf"
-
-
-Output file description:
--------------------------
-For the output files, I have included in HW3/output/
-
-
 jar.name :
 ---------------------------
 
@@ -74,13 +58,13 @@ wc.FollowerCount_DSET - For running, Follower count program in "DSET" configurat
 
 For twitter triangles spark/scala programs execution:
 
-wc.TriangleCount_RSR - For running, Follower count program in "RS-R" configuration\
+wc.TriangleCount_RSR - For running, Social amplifier count program in "RS-R" configuration\
 
-wc.TriangleCount_RSD - For running, Follower count program in "RS-D" configuration
+wc.TriangleCount_RSD - For running, Social amplifier count program in "RS-D" configuration
 
-wc.TriangleCount_RepR - For running, Follower count program in "Rep-R" configuration
+wc.TriangleCount_RepR - For running, Social amplifier count program in "Rep-R" configuration
 
-wc.TriangleCount_RepD - For running, Follower count program in "Rep-D" configuration
+wc.TriangleCount_RepD - For running, Social amplifier count program in "Rep-D" configuration
 
 
 
