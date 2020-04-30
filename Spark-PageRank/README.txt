@@ -40,20 +40,6 @@ Input:
 For input, Create "input" directory and place the dataset into that directory for execution
 
 
-Log files description:
--------------------------
-Log files are provided in "HW4/spark_logs/" directory. 
-
-Report file :
--------------------------
-Report is placed at "HW4/Srikanth_Mandru_HW4.pdf"
-
-
-Output file description:
--------------------------
-For the output files, I have included in HW4/spark_outputs/
-
-
 
 
 
